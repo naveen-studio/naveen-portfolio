@@ -45,7 +45,7 @@ const linkedinIcon= theme === 'light'? linkedinLight : linkedinDark;
           <img src={linkedinIcon} alt="linkedin logo" /></a>
         </span>
         <p className={styles.description}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur
+          frontend dolor sit amet consectetur adipisicing elit. Consequuntur
         </p>
         <a href={CV} download target="_blank">
           <button className="hover">Resume</button>
